@@ -94,14 +94,14 @@ nav a:hover {
     color: #f5f5dc;
 }
 
-/* Logo in the Navigation Bar */
 .nav-logo {
-    height: 5px; /* Adjust the size of the logo */
-    margin-right: 10px; 
-    border-radius: 15%; 
-    object-fit: contain; 
+    height: 50px; /* Adjust the height to fit the navigation bar */
+    width: auto; /* Automatically scale the width to maintain aspect ratio */
+    margin-right: 10px; /* Space between logo and links */
+    border-radius: 15%; /* Optional: Adds slight rounding for aesthetic appeal */
+    object-fit: contain; /* Ensures the logo fits without distortion */
+    max-height: 70px; /* Prevent the logo from exceeding a certain height */
 }
-
 
 @media (max-width: 600px) {
     nav {
