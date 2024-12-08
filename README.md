@@ -40,9 +40,8 @@ Agriculture is central to the Filipino economy and culture, yet traditional dist
 
 Below is a preview of our website showcasing the layout: 
 
-Preview: (./images/preview agritech site.jpg)
+![Preview of AgriTech Site](./images/preview%20agritech%20site.jpg)
 
-Live Site: https://mms-142-group-k-2024.github.io/mms142-groupk-2024/
 
 ## How to Contribute
 
