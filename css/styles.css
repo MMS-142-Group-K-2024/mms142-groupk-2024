@@ -83,7 +83,6 @@ nav a:hover {
 .nav-logo {
     height: 50px;
     width: auto;
-    margin-right: 10px;
     object-fit: contain;
 }
 
