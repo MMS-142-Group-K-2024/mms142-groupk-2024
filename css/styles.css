@@ -156,9 +156,9 @@ section {
 }
 
 .challenge-card img {
-    width: 100px;
-    height: 100px;
-    margin-bottom: 0.5rem;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 0.1rem;
 }
 
 .challenge-card h3 {
@@ -203,7 +203,7 @@ section {
 .card img, .precision-card img {
     width: 150px;
     height: 150px;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.1rem;
 }
 
 /* Regular Dropdown */
