@@ -376,8 +376,14 @@ section {
 
 .team-details h3 {
     font-size: 1.2rem;
+    margin-bottom: 0.5rem;
 }
 
+.team-details p {
+    font-size: 1rem;
+    margin: 0;
+    font-weight: 300;
+}
 
 /* Footer */
 footer {
