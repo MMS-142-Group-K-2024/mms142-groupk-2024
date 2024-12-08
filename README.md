@@ -24,9 +24,25 @@ Agriculture is central to the Filipino economy and culture, yet traditional dist
 ## Project Structure
 
 - **`index.html`**: The main webpage summarizing the research.
+- **`about.html`**: The Introduction page, detailing the context and goals of the research.
+- **`challenges.html`**: Discusses the challenges faced in agriculture and their impact.
+- **`solutions.html`**: Highlights AgriTech solutions and their role in addressing agricultural issues.
+- **`case-studies.html`**: Presents case studies to demonstrate the effectiveness of AgriTech platforms.
+- **`conclusion.html`**: The Conclusion page, summarizing the research findings and recommendations.
+- **`team.html`**: Features the project team members with their roles and photos.
+- **`references.html`**: Lists all references and citations used in the research.
 - **`css/`**: Contains stylesheets for the website.
-- **`images/`**: Stores media assets like charts, graphics, and photos.
+- **`images/`**: Stores media assets like charts, graphics, photos, and logos.
 - **`docs/`**: Includes supporting documents and research references.
+
+
+## Website Preview
+
+Below is a preview of our website showcasing the layout: 
+
+Preview: (./images/preview agritech site.jpg)
+
+Live Site: https://mms-142-group-k-2024.github.io/mms142-groupk-2024/
 
 ## How to Contribute
 
