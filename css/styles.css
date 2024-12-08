@@ -15,16 +15,6 @@
 }
 
 /* Body Styles */
-html, body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    min-height: 100%;
-    overflow-x: hidden; 
-    overflow-y: auto; 
-    box-sizing: border-box; 
-}
-
 body {
     font-family: 'Lorin', Arial, sans-serif;
     color: #636b2f; /* Dark olive text */
