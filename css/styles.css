@@ -422,4 +422,11 @@ footer {
     will-change: transform;
 }
 
+.responsive-image {
+    display: block;
+    margin: 0 auto; /* Centers the image */
+    max-width: 100%; /* Ensures the image does not overflow its container */
+    height: auto; /* Maintains aspect ratio */
+    width: 300px; /* Adjust to the desired size */
+}
 
