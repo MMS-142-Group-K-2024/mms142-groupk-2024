@@ -104,12 +104,6 @@ section {
 }
 
 
-section p {
-    text-align: justify;
-    line-height: 1.6; 
-    margin-bottom: 1rem; 
-} 
-
 .button-container {
     text-align: center;
     margin-top: 1.5rem;
