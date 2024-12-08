@@ -97,9 +97,9 @@ nav a:hover {
 /* Logo in the Navigation Bar */
 .nav-logo {
     height: 40px; /* Adjust the size of the logo */
-    margin-right: 15px; /* Space between logo and links */
-    border-radius: 50%; /* Optional: Makes the logo circular */
-    object-fit: contain; /* Ensures the image doesn't get distorted */
+    margin-right: 15px; 
+    border-radius: 50%; 
+    object-fit: contain; 
 }
 
 
