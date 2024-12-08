@@ -81,9 +81,9 @@ nav a:hover {
 }
 
 .nav-logo {
-    height: 50px;
+    height: 40px;
     width: auto;
-    object-fit: contain;
+    object-fit: fill;
 }
 
 @media (max-width: 600px) {
