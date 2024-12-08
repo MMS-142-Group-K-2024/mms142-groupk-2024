@@ -85,7 +85,6 @@ nav a:hover {
     width: auto;
     margin-right: 10px;
     object-fit: contain;
-    max-height: 100px; 
 }
 
 @media (max-width: 600px) {
