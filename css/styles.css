@@ -70,7 +70,7 @@ nav a {
     margin: 0 10px;
     font-size: 1em;
     transition: color 0.3s ease, background-color 0.3s ease;
-    padding: 8px 12px; 
+    padding: 12px 12px 0px; 
     border-radius: 12px;
     white-space: nowrap; 
 }
