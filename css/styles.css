@@ -384,15 +384,24 @@ section {
 
 /* Footer */
 footer {
+    display: block;
     background-color: #636b2f;
     color: white;
     text-align: center;
     padding: 1rem;
     border-radius: 10px;
-    margin: 1rem auto 0 auto;
+    margin: 1rem auto 0 auto; /* Centers the footer itself */
     width: 90%;
+    max-width: 1200px; 
     font-family: 'Caviar Dreams', Arial, sans-serif;
     font-size: 0.9em;
+    box-sizing: border-box; 
+}
+
+footer::after {
+    content: "";
+    display: table;
+    clear: both; 
 }
 
 /* Banner Container */
