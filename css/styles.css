@@ -97,8 +97,8 @@ nav a:hover {
 /* Logo in the Navigation Bar */
 .nav-logo {
     height: 10px; /* Adjust the size of the logo */
-    margin-right: 10px; 
-    border-radius: 20%; 
+    margin-right: 0px; 
+    border-radius: 0%; 
     object-fit: contain; 
 }
 
