@@ -80,6 +80,15 @@ nav a:hover {
     color: #f5f5dc;
 }
 
+.nav-logo {
+    height: 50px; /* Adjust the height to fit the navigation bar */
+    width: auto; /* Automatically scale the width to maintain aspect ratio */
+    margin-right: 10px; /* Space between logo and links */
+    border-radius: 15%; /* Optional: Adds slight rounding for aesthetic appeal */
+    object-fit: contain; /* Ensures the logo fits without distortion */
+    max-height: 70px; /* Prevent the logo from exceeding a certain height */
+}
+
 @media (max-width: 600px) {
     nav {
         flex-wrap: wrap;
